@@ -1,0 +1,27 @@
+.head {
+    border: 1px solid #dedede;
+    padding-left: 30px;
+    padding-bottom: 40px;
+}
+.box {
+    border: 1px solid #4b0808;
+    background-color: #5e1c1c;
+}
+.box {
+    background-color: #dedede;
+}
+.pad-3 {
+    padding: 30px;
+}
+.box {
+    padding: 15px; 
+    background-color: #ddd;
+    border: 1px solid #cecece;
+.pad-1 {
+    padding: 1px;
+}
+.font-md {
+    font-size: 16px;
+}
+.post-content .box {
+    min-height: 300px;
